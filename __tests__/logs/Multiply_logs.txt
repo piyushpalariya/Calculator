@@ -1,0 +1,28 @@
+
+{"level":"info","message":"test cases for sum"}
+{"level":"info","message":"number 1 clicked"}
+{"level":"info","message":"multiply clicked"}
+{"level":"info","message":"number 2 clicked"}
+{"level":"info","message":"equal clicked"}
+{"level":"info","message":"multiply clicked"}
+{"level":"info","message":"number 3 clicked"}
+{"level":"info","message":"equal clicked"}
+{"level":"info","message":"multiply clicked"}
+{"level":"info","message":"number 4 clicked"}
+{"level":"info","message":"equal clicked"}
+{"level":"info","message":"multiply clicked"}
+{"level":"info","message":"number 5 clicked"}
+{"level":"info","message":"equal clicked"}
+{"level":"info","message":"multiply clicked"}
+{"level":"info","message":"number 6 clicked"}
+{"level":"info","message":"equal clicked"}
+{"level":"info","message":"multiply clicked"}
+{"level":"info","message":"number 7 clicked"}
+{"level":"info","message":"equal clicked"}
+{"level":"info","message":"multiply clicked"}
+{"level":"info","message":"number 8 clicked"}
+{"level":"info","message":"equal clicked"}
+{"level":"info","message":"multiply clicked"}
+{"level":"info","message":"number 9 clicked"}
+{"level":"info","message":"equal clicked"}
+{"level":"info","message":"result is 362880"}
